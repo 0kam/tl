@@ -3,7 +3,7 @@ torchvision
 numpy
 tqdm
 tensorboardX
-PIL
+pillow
 cv2
 pandas
 sklearn
