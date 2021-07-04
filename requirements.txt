@@ -4,6 +4,6 @@ numpy
 tqdm
 tensorboardX
 pillow
-cv2
+opencv-python
 pandas
 sklearn
