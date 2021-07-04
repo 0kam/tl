@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+tqdm
+tensorboardX
+PIL
+cv2
+pandas
+sklearn
